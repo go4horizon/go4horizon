@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![go4horizon GitHub stats](https://github-readme-stats-grce2glu2-go4horizon.vercel.app/api?username=go4horizon&count_private=true)
+
 <!-- <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=go4horizon&layout=compact&langs_count=10&exclude_repo=jhipster-books" /></a> -->
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=go4horizon&show_icons=true&hide_rank=true&include_all_commits=true&hide=contribs,prs" /> -->
 
