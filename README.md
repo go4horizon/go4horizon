@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![go4horizon GitHub stats](https://github-readme-stats-rezxepbdx-go4horizon.vercel.app/api/top-langs/?username=go4horizon&count_private=true&layout=compact&exclude_repo=github-readme-stats&theme=tokyonight)
+![go4horizon GitHub stats](https://github-readme-stats-4pefcyknd-go4horizon.vercel.app/api/top-langs/?username=go4horizon&count_private=true&layout=compact&exclude_repo=github-readme-stats&theme=tokyonight)
 
 <!-- <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=go4horizon&layout=compact&langs_count=10&exclude_repo=jhipster-books" /></a> -->
 <!-- <img align="center" src="https://github-readme-stats-rezxepbdx-go4horizon.vercel.app/api?username=go4horizon&show_icons=true&hide_rank=true&include_all_commits=true&hide=contribs,prs&count_private=true&layout=compact&exclude_repo=github-readme-stats&theme=tokyonight" /> -->
