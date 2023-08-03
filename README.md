@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Moved to https://gitlab.com/go.horizon
+
 ![go4horizon GitHub stats](https://github-readme-stats-4pefcyknd-go4horizon.vercel.app/api/top-langs/?username=go4horizon&count_private=true&layout=compact&exclude_repo=github-readme-stats&theme=tokyonight)
 
 <!-- <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=go4horizon&layout=compact&langs_count=10&exclude_repo=jhipster-books" /></a> -->
